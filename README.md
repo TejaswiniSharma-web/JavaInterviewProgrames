@@ -1,4 +1,4 @@
-# JavaInterviewProgrames
+# WebInterviewProgrames
 Design a Webpage like Technical Documentation using HTML & CSS
 
 Design a Tribute Page using HTML & CSS
